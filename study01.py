@@ -60,7 +60,6 @@ print(char_list)
 
 # def check_data():
 #     data = int(input())
-
 #     if data == 1:
 #         print("1이다")
 #     elif data == 2:
@@ -79,4 +78,6 @@ print(char_list)
 
 
 
+num : int = 1
 
+num = "hjk"
